@@ -9,8 +9,4 @@ print ("test again and again")
 
 # test commit
 
-<<<<<<< HEAD
-
-=======
 # I text something at the feature-a
->>>>>>> feature-a
