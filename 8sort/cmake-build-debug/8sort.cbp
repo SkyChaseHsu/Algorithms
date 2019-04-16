@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="8sort"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xukexin/ClionProjects/8sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xukexin/ClionProjects/8sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xukexin/ClionProjects/8sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8sort">
+				<Option output="/Users/xukexin/ClionProjects/8sort/cmake-build-debug/8sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xukexin/ClionProjects/8sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 8sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8sort/fast">
+				<Option output="/Users/xukexin/ClionProjects/8sort/cmake-build-debug/8sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xukexin/ClionProjects/8sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 8sort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xukexin/ClionProjects/8sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/csvProcess.cpp">
+			<Option target="8sort"/>
+		</Unit>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/csvProcess.h">
+			<Option target="8sort"/>
+		</Unit>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/main.cpp">
+			<Option target="8sort"/>
+		</Unit>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/sortClass.cpp">
+			<Option target="8sort"/>
+		</Unit>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/sortClass.h">
+			<Option target="8sort"/>
+		</Unit>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/testSort.cpp">
+			<Option target="8sort"/>
+		</Unit>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/testSort.h">
+			<Option target="8sort"/>
+		</Unit>
+		<Unit filename="/Users/xukexin/ClionProjects/8sort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
