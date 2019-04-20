@@ -60,3 +60,6 @@ dkms.conf
 Icon?  
 ehthumbs.db  
 Thumbs.db  
+
+# Cmake Files #
+.idea
